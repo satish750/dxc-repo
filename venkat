@@ -4,3 +4,6 @@ emdm has two repos
 and each repo has two envs.
 we have UAT AND SIT envs
 and two PROD nodes
+
+we have total 4 apps
+and we have 2 env's
