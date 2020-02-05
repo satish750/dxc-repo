@@ -1,5 +1,6 @@
 This is test for git branch.
 This is also a test for git pull request.
-
+emdm has two repos
+and each repo has two envs.
 we have UAT AND SIT envs
 and two PROD nodes
